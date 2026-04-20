@@ -1,5 +1,21 @@
 # @rocket.chat/ui-voip
 
+## 19.0.0-rc.0
+
+### Patch Changes
+
+- ([#38989](https://github.com/RocketChat/Rocket.Chat/pull/38989)) chore(eslint): Upgrades ESLint and its configuration
+
+- <details><summary>Updated dependencies [87f9262af4a543d52642a54e1ef546d509a79e23, 539659af22bc19880eda047dfc0b152472ccb65c]:</summary>
+
+  - @rocket.chat/fuselage-ui-kit@29.0.0-rc.0
+  - @rocket.chat/media-signaling@0.1.2-rc.0
+  - @rocket.chat/desktop-api@1.1.1-rc.0
+  - @rocket.chat/ui-contexts@29.0.0-rc.0
+  - @rocket.chat/ui-avatar@25.0.0-rc.0
+  - @rocket.chat/ui-client@29.0.0-rc.0
+  </details>
+
 ## 18.0.0
 
 ### Patch Changes
